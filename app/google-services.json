@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "430290250088",
+    "firebase_url": "https://speakbuggy.firebaseio.com",
+    "project_id": "speakbuggy",
+    "storage_bucket": "speakbuggy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430290250088:android:5872ddb435536f87",
+        "android_client_info": {
+          "package_name": "anway.somani.speakbuggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430290250088-oimr7saquocrp23oeiqi3r51hiag1os6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anway.somani.speakbuggy",
+            "certificate_hash": "f446c2663c2162afcc0a99fb38cac2ca83576546"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-9yUiEEU1y7nSZKEio74YGZTfLr4Wx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430290250088-d2fg3t6tb5ndmtb6ueq3rd6t40eo74om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
